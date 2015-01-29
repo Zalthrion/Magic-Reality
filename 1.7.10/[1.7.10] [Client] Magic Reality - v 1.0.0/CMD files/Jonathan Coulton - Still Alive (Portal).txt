@@ -1,0 +1,12 @@
+craft_start
+iron_ingot
+clay_ball
+iron_ingot
+clay_ball
+glowstone_dust
+clay_ball
+iron_ingot
+clay_ball
+iron_ingot
+craft_end
+dungeons:dungeonChest:5
