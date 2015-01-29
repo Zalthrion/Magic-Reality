@@ -1,0 +1,12 @@
+craft_start
+iron_ingot
+iron_bars
+iron_ingot
+iron_bars
+glowstone_dust
+iron_bars
+iron_ingot
+iron_bars
+iron_ingot
+craft_end
+dungeons:dungeonChest:5
