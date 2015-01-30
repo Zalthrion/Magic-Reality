@@ -77,7 +77,7 @@ Yet Another Food Mod|AiryBreath|1.0.3
 |Twitter Name|In-Game Name|Contribution|
 |------------|------------|------------|
 Dizkonnekted|Dizkonnekted|Help and Support
-CubedInverted|Funnyman4778|Alpha Tester
-MeadowCottage|MeadowCottage|Alpha Tester
-ArchtheCreeper|SizzlinBacen|Alpha Tester
-61352151511|61352151511|Alpha Tester - README.md
+CubedInverted|Funnyman4778|<ul><li>Alpha Tester</li></ul>
+MeadowCottage|MeadowCottage|<ul><li>Alpha Tester</li></ul>
+ArchtheCreeper|SizzlinBacen|<ul><li>Alpha Tester</li></ul>
+61352151511|61352151511|<ul><li>Alpha Tester</li><li>README.md</li></ul>
