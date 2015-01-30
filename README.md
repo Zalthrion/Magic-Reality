@@ -21,6 +21,7 @@ ChiselFacades|Chonster|2.7
 CodeChickenCore|ChickenBones|1.0.4.29
 CodeChickenLib|ChickenBones|1.1.1.99
 CoFHCore|TeamCOFH|3.0.0 B9.40
+CoroUtil|Corosus|1.1.1
 Custom Music Discs|pifou92000|1.5
 Damage Indicator|rich1051414|3.2.3
 Decocraft|RazzleberryFox|1.11
@@ -72,6 +73,23 @@ Waila|ProfMobius|1.5.8a
 Wawla|Darkhax|1.1.1
 Wireless Redstone Chicken Bones Edition|Chicken Bones|1.4.1.9
 Yet Another Food Mod|AiryBreath|1.0.3
+Zombie Awareness|Corosus|1.9.6
+
+#Music
+|Music|Author|Owner|
+|---|------|-------|
+
+#MachinimaSound
+Cloister of Redemption|Jens Kiilstofte|MachinimaSound
+Dance of the Pixies|Jens Kiilstofte|MachinimaSound
+Ecstatic Wave|Jens Kiilstofte|MachinimaSound
+End Game|Per Kiilstofte|MachinimaSound
+Exigence|Aaron Spencer|MachinimaSound
+The Arcade|Jens Kiilstofte|MachinimaSound
+
+#Portal
+Still Alive|Jonathan Coulton|Portal
+Want You Gone|Jonathan Coulton|Portal 2
 
 #Contributors
 |Twitter Name|In-Game Name|Contribution|
