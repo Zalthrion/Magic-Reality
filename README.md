@@ -78,8 +78,6 @@ Zombie Awareness|Corosus|1.9.6
 #Music
 |Music|Author|Owner|
 |---|------|-------|
-
-#MachinimaSound
 Cloister of Redemption|Jens Kiilstofte|MachinimaSound
 Dance of the Pixies|Jens Kiilstofte|MachinimaSound
 Ecstatic Wave|Jens Kiilstofte|MachinimaSound
@@ -87,7 +85,6 @@ End Game|Per Kiilstofte|MachinimaSound
 Exigence|Aaron Spencer|MachinimaSound
 The Arcade|Jens Kiilstofte|MachinimaSound
 
-#Portal
 Still Alive|Jonathan Coulton|Portal
 Want You Gone|Jonathan Coulton|Portal 2
 
