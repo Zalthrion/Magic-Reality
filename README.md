@@ -80,4 +80,4 @@ Dizkonnekted|Dizkonnekted|Help and Support
 CubedInverted|Funnyman4778|Alpha Tester
 MeadowCottage|MeadowCottage|Alpha Tester
 ArchtheCreeper|SizzlinBacen|Alpha Tester
-61352151511|61352151511|<li>Alpha Tester</li><li>README.md</li>
+61352151511|61352151511|Alpha Tester - README.md
