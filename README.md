@@ -95,3 +95,4 @@ CubedInverted|Funnyman4778|<ul><li>Alpha Tester</li></ul>
 MeadowCottage|MeadowCottage|<ul><li>Alpha Tester</li></ul>
 ArchtheCreeper|SizzlinBacen|<ul><li>Alpha Tester</li></ul>
 61352151511|61352151511|<ul><li>Alpha Tester</li><li>README.md</li></ul>
+Amaxter|Amaxter|<ul><li>Logo, Background, Icon</li></ul>
