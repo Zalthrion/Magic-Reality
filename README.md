@@ -14,8 +14,8 @@ BiblioWoods: Biomes O' Plenty|Nuchaz|1.9
 BiblioWoods: Natura|Nuchaz|1.5
 Biomes O' Plenty|Glitchfiend|2.1.0.1036
 bspkrsCore|bspkrs|6.15
-Buildcraft|SpaceToad|6.3.3
-Carpenter's Blocks||3.3.4.2
+Buildcraft|SpaceToad|6.3.4
+Carpenter's Blocks|Mineshopper|3.3.4.2
 Chisel 2|TheCricket26|2.2.1
 ChiselFacades|Chonster|2.7
 CodeChickenCore|ChickenBones|1.0.4.29
@@ -43,7 +43,7 @@ Java7Checker|Chylex|1.1
 Legacy Java Fixer||1.0
 LibSandstone||1.0.0
 LiteLoader|Mumfrey|N/A
-Logistics Pipes|theZorro266 and his Team|0.8.3.94
+Logistics Pipes|theZorro266 and his Team|0.8.3.97
 Malisis Core|Ordinastie|0.15.5
 Malisis Doors|Ordinastie|1.4.3
 Mantle|SlimeKnights|0.3.2
